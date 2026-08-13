@@ -1,0 +1,558 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clojure.jdbc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-03-01T17:13:14Z",
+            "owner": "funcool",
+            "repo": "clojure.jdbc",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cravendb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2013-12-25T15:58:46Z",
+            "owner": "robashton",
+            "repo": "cravendb",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Clojure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rocksdb",
+          "description": "Embedded key-value store for fast storage http://rocksdb.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:08:59Z",
+            "owner": "facebook",
+            "repo": "rocksdb",
+            "stars": 31967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mongo",
+          "description": "The Mongo Database http://www.mongodb.org/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:10:22Z",
+            "owner": "mongodb",
+            "repo": "mongo",
+            "stars": 28488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rethinkdb",
+          "description": "An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-28T06:10:59Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb",
+            "stars": 26997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postgres",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:17:51Z",
+            "owner": "postgres",
+            "repo": "postgres",
+            "stars": 21778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memcache",
+          "description": "Free & open source, high-performance, distributed memory object caching system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-10T04:45:12Z",
+            "owner": "memcached",
+            "repo": "memcached",
+            "stars": 14249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssdb",
+          "description": "SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-20T12:26:30Z",
+            "owner": "ideawu",
+            "repo": "ssdb",
+            "stars": 8336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facebook/mysql-5.6",
+          "description": "Facebook's branch of the Oracle MySQL v5.6 database",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-02-27T17:24:15Z",
+            "owner": "facebook",
+            "repo": "mysql-5.6",
+            "stars": 2576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cstore_fdw",
+          "description": "Fast columnar store for analytics with PostgreSQL website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-08T08:37:44Z",
+            "owner": "citusdata",
+            "repo": "cstore_fdw",
+            "stars": 1782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter/mysql",
+          "description": "MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-02-22T15:27:40Z",
+            "owner": "twitter-forks",
+            "repo": "mysql",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aerospike",
+          "description": "Aerospike Database Server – flash-optimized, in-memory, nosql database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T17:59:39Z",
+            "owner": "aerospike",
+            "repo": "aerospike-server",
+            "stars": 1372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TokuMX",
+          "description": "TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-10-11T03:59:05Z",
+            "owner": "Tokutek",
+            "repo": "mongo",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokudb-engine",
+          "description": "TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2015-10-03T13:14:42Z",
+            "owner": "percona",
+            "repo": "tokudb-engine",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alchemy-Database",
+          "description": "AlchemyDB is now Aerospike",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2012-08-27T23:16:09Z",
+            "owner": "JakSprats",
+            "repo": "Alchemy-Database",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis",
+          "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-13T15:08:09Z",
+            "owner": "antirez",
+            "repo": "redis",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redis-nds",
+          "description": "This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-05-30T20:45:32Z",
+            "owner": "mpalmer",
+            "repo": "redis",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monetdb",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-09-05T07:45:26Z",
+            "owner": "snaga",
+            "repo": "monetdb",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltDB",
+          "description": "VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.",
+          "children": []
+        }
+      ],
+      "title": "C / CPP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "influxdb",
+          "description": "Scalable datastore for metrics, events, and real-time analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T18:14:38Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bolt",
+          "description": "A low-level key/value database for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-03-02T18:00:53Z",
+            "owner": "boltdb",
+            "repo": "bolt",
+            "stars": 14644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "groupcache",
+          "description": "Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-29T21:07:26Z",
+            "owner": "golang",
+            "repo": "groupcache",
+            "stars": 13337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-cache",
+          "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-20T05:12:16Z",
+            "owner": "patrickmn",
+            "repo": "go-cache",
+            "stars": 8842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goleveldb",
+          "description": "An implementation of the LevelDB key/value database in the Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-14T20:40:52Z",
+            "owner": "syndtr",
+            "repo": "goleveldb",
+            "stars": 6322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ledisdb",
+          "description": "Ledisdb is a high performance NoSQL like Redis based on LevelDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-22T02:24:37Z",
+            "owner": "ledisdb",
+            "repo": "ledisdb",
+            "stars": 4118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roshi",
+          "description": "Roshi is a large-scale CRDT set implementation for timestamped events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-19T01:24:16Z",
+            "owner": "soundcloud",
+            "repo": "roshi",
+            "stars": 3179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiedot",
+          "description": "Your NoSQL database powered by Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-05T17:47:27Z",
+            "owner": "HouzuoGuo",
+            "repo": "tiedot",
+            "stars": 2727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diskv",
+          "description": "A home-grown disk-backed key-value store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-11-10T01:12:08Z",
+            "owner": "peterbourgon",
+            "repo": "diskv",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skydb.io",
+          "description": "Sky is an open source database used for flexible, high performance analysis of behavioral data.",
+          "children": []
+        }
+      ],
+      "title": "Go-lang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elasticsearch",
+          "description": "Open Source, Distributed, RESTful Search Engine website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:23:39Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j",
+          "description": "Neo4j is the world’s leading Graph Database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T16:25:48Z",
+            "owner": "neo4j",
+            "repo": "neo4j",
+            "stars": 17057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cassandra",
+          "description": "Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:11:47Z",
+            "owner": "apache",
+            "repo": "cassandra",
+            "stars": 10066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapdb",
+          "description": "MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-23T08:08:46Z",
+            "owner": "jankotek",
+            "repo": "mapdb",
+            "stars": 5050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orientdb",
+          "description": "OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T22:30:30Z",
+            "owner": "orientechnologies",
+            "repo": "orientdb",
+            "stars": 4977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voldemort",
+          "description": "An open source clone of Amazon's Dynamo. website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-07-24T13:49:47Z",
+            "owner": "voldemort",
+            "repo": "voldemort",
+            "stars": 2685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmdbjni",
+          "description": "LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-28T01:46:47Z",
+            "owner": "deephacks",
+            "repo": "lmdbjni",
+            "stars": 205
+          }
+        }
+      ],
+      "title": "JAVA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mongodb",
+          "description": "MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:10:22Z",
+            "owner": "mongodb",
+            "repo": "mongo",
+            "stars": 28488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "couchdb",
+          "description": "Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T14:54:47Z",
+            "owner": "apache",
+            "repo": "couchdb",
+            "stars": 6936
+          }
+        }
+      ],
+      "title": "Javascript"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:34.788Z",
+    "original_repository": "numetriclabz/awesome-db",
+    "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
+    "enhanced_repository": "enhansome/enhansome-db",
+    "enhanced_repository_description": null,
+    "title": "awesome - db with stars"
+  }
+}
