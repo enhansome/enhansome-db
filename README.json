@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14280537,
             "language": "Clojure",
             "last_commit": "2019-03-01T17:13:14Z",
             "owner": "funcool",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11814790,
             "language": "Clojure",
             "last_commit": "2013-12-25T15:58:46Z",
             "owner": "robashton",
@@ -35,7 +37,7 @@
       "title": "Clojure"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-18T02:33:06Z",
+            "last_commit": "2026-08-19T12:06:57Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 31976
+            "stars": 31981
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-18T14:04:49Z",
+            "last_commit": "2026-08-19T12:08:02Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28496
+            "stars": 28501
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6452529,
             "language": "C++",
             "last_commit": "2026-03-28T06:10:59Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 26994
+            "stars": 26992
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 927442,
             "language": "C",
-            "last_commit": "2026-08-18T13:47:35Z",
+            "last_commit": "2026-08-19T10:49:31Z",
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21821
+            "stars": 21838
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184981,
             "language": "C",
             "last_commit": "2026-07-10T04:45:12Z",
             "owner": "memcached",
             "repo": "memcached",
-            "stars": 14251
+            "stars": 14252
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7561862,
             "language": "C++",
             "last_commit": "2022-08-20T12:26:30Z",
             "owner": "ideawu",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9454675,
             "language": "C++",
             "last_commit": "2025-02-27T17:24:15Z",
             "owner": "facebook",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18400513,
             "language": "C",
             "last_commit": "2021-03-08T08:37:44Z",
             "owner": "citusdata",
             "repo": "cstore_fdw",
-            "stars": 1782
+            "stars": 1783
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3098140,
             "language": "C++",
             "last_commit": "2017-02-22T15:27:40Z",
             "owner": "twitter-forks",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124315604,
             "language": "C",
             "last_commit": "2026-07-16T17:59:39Z",
             "owner": "aerospike",
             "repo": "aerospike-server",
-            "stars": 1373
+            "stars": 1374
           }
         },
         {
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8729689,
             "language": "C++",
             "last_commit": "2017-10-11T03:59:05Z",
             "owner": "Tokutek",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9509125,
             "language": "C++",
             "last_commit": "2015-10-03T13:14:42Z",
             "owner": "percona",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858418,
             "language": "C",
             "last_commit": "2012-08-27T23:16:09Z",
             "owner": "JakSprats",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960061807,
             "language": "C",
             "last_commit": "2026-08-13T11:07:27Z",
             "owner": "antirez",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8980523,
             "language": "C",
             "last_commit": "2014-05-30T20:45:32Z",
             "owner": "mpalmer",
@@ -254,24 +271,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12612138,
             "language": "C",
             "last_commit": "2013-09-05T07:45:26Z",
             "owner": "snaga",
             "repo": "monetdb",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "VoltDB",
-          "description": "VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.",
-          "children": []
         }
       ],
       "title": "C / CPP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -280,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13124802,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:06:32Z",
+            "last_commit": "2026-08-18T22:21:14Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31703
+            "stars": 31705
           }
         },
         {
@@ -294,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15345331,
             "language": "Go",
             "last_commit": "2018-03-02T18:00:53Z",
             "owner": "boltdb",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11593442,
             "language": "Go",
             "last_commit": "2024-11-29T21:07:26Z",
             "owner": "golang",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3087541,
             "language": "Go",
             "last_commit": "2023-11-20T05:12:16Z",
             "owner": "patrickmn",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7767488,
             "language": "Go",
             "last_commit": "2024-05-14T20:40:52Z",
             "owner": "syndtr",
@@ -350,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19296225,
             "language": "Go",
             "last_commit": "2023-10-22T02:24:37Z",
             "owner": "ledisdb",
             "repo": "ledisdb",
-            "stars": 4114
+            "stars": 4115
           }
         },
         {
@@ -364,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15902954,
             "language": "Go",
             "last_commit": "2026-06-19T01:24:16Z",
             "owner": "soundcloud",
@@ -378,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10296238,
             "language": "Go",
             "last_commit": "2021-09-05T17:47:27Z",
             "owner": "HouzuoGuo",
@@ -392,24 +412,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3788841,
             "language": "Go",
             "last_commit": "2021-11-10T01:12:08Z",
             "owner": "peterbourgon",
             "repo": "diskv",
             "stars": 1455
           }
-        },
-        {
-          "node_type": "item",
-          "title": "skydb.io",
-          "description": "Sky is an open source database used for flexible, high performance analysis of behavioral data.",
-          "children": []
         }
       ],
       "title": "Go-lang"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -418,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-18T13:51:11Z",
+            "last_commit": "2026-08-19T12:26:59Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77820
+            "stars": 77838
           }
         },
         {
@@ -432,11 +448,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6650539,
             "language": "Java",
             "last_commit": "2026-08-07T16:25:48Z",
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17084
+            "stars": 17088
           }
         },
         {
@@ -446,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206424,
             "language": "Java",
-            "last_commit": "2026-08-17T20:16:44Z",
+            "last_commit": "2026-08-19T09:47:26Z",
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10071
+            "stars": 10076
           }
         },
         {
@@ -460,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5453989,
             "language": "Java",
             "last_commit": "2026-07-23T08:08:46Z",
             "owner": "jankotek",
@@ -474,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7083240,
             "language": "Java",
             "last_commit": "2026-08-18T13:38:26Z",
             "owner": "orientechnologies",
@@ -488,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214605,
             "language": "Java",
             "last_commit": "2023-07-24T13:49:47Z",
             "owner": "voldemort",
@@ -502,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19858860,
             "language": "C",
             "last_commit": "2021-05-28T01:46:47Z",
             "owner": "deephacks",
@@ -513,7 +535,7 @@
       "title": "JAVA"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -522,11 +544,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-18T14:04:49Z",
+            "last_commit": "2026-08-19T12:08:02Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28496
+            "stars": 28501
           }
         },
         {
@@ -536,11 +559,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206417,
             "language": "Erlang",
-            "last_commit": "2026-08-17T16:21:57Z",
+            "last_commit": "2026-08-19T10:05:38Z",
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6937
+            "stars": 6939
           }
         }
       ],
@@ -548,8 +572,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:07:19.758Z",
+    "last_updated": "2026-08-19T12:27:01.467Z",
     "original_repository": "numetriclabz/awesome-db",
+    "original_repository_id": 22630633,
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
     "enhanced_repository": "enhansome/enhansome-db",
     "enhanced_repository_description": null,
