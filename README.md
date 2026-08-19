@@ -10,10 +10,10 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## C / CPP
 
-* [rocksdb](https://github.com/facebook/rocksdb) ⭐ 31,981 | 🐛 1,617 | 🌐 C++ | 📅 2026-08-19 - Embedded key-value store for fast storage <http://rocksdb.org>
+* [rocksdb](https://github.com/facebook/rocksdb) ⭐ 31,982 | 🐛 1,617 | 🌐 C++ | 📅 2026-08-19 - Embedded key-value store for fast storage <http://rocksdb.org>
 * [mongo](https://github.com/mongodb/mongo) ⭐ 28,501 | 🐛 31 | 🌐 C++ | 📅 2026-08-19 - The Mongo Database <http://www.mongodb.org/>
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 26,992 | 🐛 1,352 | 🌐 C++ | 📅 2026-03-28 - An open-source distributed JSON document database with a pleasant and powerful query language. <http://www.rethinkdb.com>
-* [postgres](https://github.com/postgres/postgres) ⭐ 21,838 | 🐛 0 | 🌐 C | 📅 2026-08-19
+* [postgres](https://github.com/postgres/postgres) ⭐ 21,839 | 🐛 0 | 🌐 C | 📅 2026-08-19
 * [memcache](https://github.com/memcached/memcached) ⭐ 14,252 | 🐛 102 | 🌐 C | 📅 2026-07-10 - Free & open source, high-performance, distributed memory object caching system
 * [ssdb](https://github.com/ideawu/ssdb) ⭐ 8,320 | 🐛 398 | 🌐 C++ | 📅 2022-08-20 - SSDB - A fast NoSQL database, an alternative to Redis <http://ssdb.io>
 * [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) ⚠️ Archived - Facebook's branch of the Oracle MySQL v5.6 database
@@ -32,7 +32,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## dot-net
 
-* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 3,989 | 🐛 67 | 🌐 C# | 📅 2026-08-19 - A linq enabled document database for .NET <http://ayende.com/Blog/>
+* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 3,989 | 🐛 68 | 🌐 C# | 📅 2026-08-19 - A linq enabled document database for .NET <http://ayende.com/Blog/>
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
 ## Erlang
@@ -49,14 +49,14 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [goleveldb](https://github.com/syndtr/goleveldb) ⭐ 6,322 | 🐛 111 | 🌐 Go | 📅 2024-05-14 - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
 * [ledisdb](https://github.com/siddontang/ledisdb) ⭐ 4,115 | 🐛 1 | 🌐 Go | 📅 2023-10-22 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [roshi](https://github.com/soundcloud/roshi/) ⭐ 3,180 | 🐛 15 | 🌐 Go | 📅 2026-06-19 - Roshi is a large-scale CRDT set implementation for timestamped events.
-* [tiedot](https://github.com/HouzuoGuo/tiedot) ⭐ 2,726 | 🐛 27 | 🌐 Go | 📅 2021-09-05 - Your NoSQL database powered by Golang.
+* [tiedot](https://github.com/HouzuoGuo/tiedot) ⭐ 2,725 | 🐛 27 | 🌐 Go | 📅 2021-09-05 - Your NoSQL database powered by Golang.
 * [diskv](https://github.com/peterbourgon/diskv) ⭐ 1,455 | 🐛 8 | 🌐 Go | 📅 2021-11-10 - A home-grown disk-backed key-value store.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
 
 ## JAVA
 
-* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 77,838 | 🐛 5,976 | 🌐 Java | 📅 2026-08-19 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
-* [neo4j](https://github.com/neo4j/neo4j) ⭐ 17,088 | 🐛 229 | 🌐 Java | 📅 2026-08-07 - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
+* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 77,841 | 🐛 5,982 | 🌐 Java | 📅 2026-08-19 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
+* [neo4j](https://github.com/neo4j/neo4j) ⭐ 17,088 | 🐛 226 | 🌐 Java | 📅 2026-08-07 - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [cassandra](https://github.com/apache/cassandra) ⭐ 10,076 | 🐛 458 | 🌐 Java | 📅 2026-08-19 - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [mapdb](https://github.com/jankotek/MapDB) ⭐ 5,050 | 🐛 200 | 🌐 Java | 📅 2026-07-23 - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.<http://www.mapdb.org>
 * [orientdb](https://github.com/orientechnologies/orientdb) ⭐ 4,980 | 🐛 356 | 🌐 Java | 📅 2026-08-18 - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
