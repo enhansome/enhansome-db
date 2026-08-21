@@ -48,10 +48,10 @@
             "archived": false,
             "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-20T12:02:23Z",
+            "last_commit": "2026-08-21T00:35:17Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 31989
+            "stars": 31994
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-20T14:08:09Z",
+            "last_commit": "2026-08-21T14:02:41Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28503
+            "stars": 28502
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-03-28T06:10:59Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 26993
+            "stars": 26994
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 927442,
             "language": "C",
-            "last_commit": "2026-08-20T08:56:16Z",
+            "last_commit": "2026-08-21T12:15:53Z",
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21850
+            "stars": 21858
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 13124802,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:21:14Z",
+            "last_commit": "2026-08-20T19:31:27Z",
             "owner": "influxdata",
             "repo": "influxdb",
             "stars": 31706
@@ -312,7 +312,7 @@
             "last_commit": "2018-03-02T18:00:53Z",
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643
+            "stars": 14644
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2024-11-29T21:07:26Z",
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13332
+            "stars": 13331
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 15902954,
             "language": "Go",
-            "last_commit": "2026-06-19T01:24:16Z",
+            "last_commit": "2026-08-21T06:42:39Z",
             "owner": "soundcloud",
             "repo": "roshi",
             "stars": 3180
@@ -435,10 +435,10 @@
             "archived": false,
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-20T14:04:39Z",
+            "last_commit": "2026-08-21T14:03:01Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77845
+            "stars": 77855
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-07T16:25:48Z",
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17093
+            "stars": 17100
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 206424,
             "language": "Java",
-            "last_commit": "2026-08-19T18:15:29Z",
+            "last_commit": "2026-08-21T13:20:45Z",
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10076
+            "stars": 10077
           }
         },
         {
@@ -546,10 +546,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-20T14:08:09Z",
+            "last_commit": "2026-08-21T14:02:41Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28503
+            "stars": 28502
           }
         },
         {
@@ -561,10 +561,10 @@
             "archived": false,
             "id": 206417,
             "language": "Erlang",
-            "last_commit": "2026-08-19T10:05:38Z",
+            "last_commit": "2026-08-20T19:39:54Z",
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6939
+            "stars": 6938
           }
         }
       ],
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:09:09.079Z",
+    "last_updated": "2026-08-21T14:07:13.969Z",
     "original_repository": "numetriclabz/awesome-db",
     "original_repository_id": 22630633,
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
