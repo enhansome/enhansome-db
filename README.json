@@ -51,7 +51,7 @@
             "last_commit": "2026-08-22T19:19:35Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32001
+            "stars": 32005
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-22T12:47:01Z",
+            "last_commit": "2026-08-24T11:46:48Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28502
+            "stars": 28503
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 927442,
             "language": "C",
-            "last_commit": "2026-08-22T18:51:00Z",
+            "last_commit": "2026-08-24T12:31:35Z",
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21875
+            "stars": 21885
           }
         },
         {
@@ -287,6 +287,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "RavenDB",
+          "description": "A linq enabled document database for .NET http://ayende.com/Blog/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 542714,
+            "language": "C#",
+            "last_commit": "2026-08-24T10:35:10Z",
+            "owner": "ravendb",
+            "repo": "ravendb",
+            "stars": 3992
+          }
+        }
+      ],
+      "title": "dot-net"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "riak",
+          "description": "Riak is a decentralized datastore from Basho Technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613723,
+            "language": "Shell",
+            "last_commit": "2026-08-14T13:38:31Z",
+            "owner": "basho",
+            "repo": "riak",
+            "stars": 4027
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "influxdb",
           "description": "Scalable datastore for metrics, events, and real-time analytics",
           "children": [],
@@ -297,7 +339,7 @@
             "last_commit": "2026-08-20T19:31:27Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31707
+            "stars": 31709
           }
         },
         {
@@ -357,7 +399,7 @@
             "last_commit": "2024-05-14T20:40:52Z",
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6323
+            "stars": 6324
           }
         },
         {
@@ -435,10 +477,10 @@
             "archived": false,
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-23T10:06:41Z",
+            "last_commit": "2026-08-24T14:11:14Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77852
+            "stars": 77856
           }
         },
         {
@@ -453,7 +495,7 @@
             "last_commit": "2026-08-07T16:25:48Z",
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17113
+            "stars": 17121
           }
         },
         {
@@ -465,7 +507,7 @@
             "archived": false,
             "id": 206424,
             "language": "Java",
-            "last_commit": "2026-08-22T19:13:26Z",
+            "last_commit": "2026-08-24T14:05:51Z",
             "owner": "apache",
             "repo": "cassandra",
             "stars": 10079
@@ -483,7 +525,7 @@
             "last_commit": "2026-07-23T08:08:46Z",
             "owner": "jankotek",
             "repo": "mapdb",
-            "stars": 5050
+            "stars": 5049
           }
         },
         {
@@ -495,7 +537,7 @@
             "archived": false,
             "id": 7083240,
             "language": "Java",
-            "last_commit": "2026-08-19T14:53:23Z",
+            "last_commit": "2026-08-24T11:34:39Z",
             "owner": "orientechnologies",
             "repo": "orientdb",
             "stars": 4980
@@ -530,6 +572,21 @@
             "repo": "lmdbjni",
             "stars": 205
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Titan",
+          "description": "Distributed Graph Database http://titandb.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3548254,
+            "language": "Java",
+            "last_commit": "2022-10-19T07:57:00Z",
+            "owner": "thinkaurelius",
+            "repo": "titan",
+            "stars": 5225
+          }
         }
       ],
       "title": "JAVA"
@@ -546,10 +603,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-22T12:47:01Z",
+            "last_commit": "2026-08-24T11:46:48Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28502
+            "stars": 28503
           }
         },
         {
@@ -561,7 +618,7 @@
             "archived": false,
             "id": 206417,
             "language": "Erlang",
-            "last_commit": "2026-08-21T22:13:26Z",
+            "last_commit": "2026-08-24T03:49:27Z",
             "owner": "apache",
             "repo": "couchdb",
             "stars": 6940
@@ -569,10 +626,52 @@
         }
       ],
       "title": "Javascript"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlinkDB",
+          "description": "BlinkDB: Sub-Second Approximate Queries on Very Large Data [website] (http://blinkdb.cs.berkeley.edu/)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2529750,
+            "language": "Scala",
+            "last_commit": "2014-02-06T07:21:39Z",
+            "owner": "sameeragarwal",
+            "repo": "blinkdb",
+            "stars": 660
+          }
+        }
+      ],
+      "title": "Scala"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "db-readings",
+          "description": "A list of papers essential to understanding databases and building new data systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4513324,
+            "language": null,
+            "last_commit": "2024-09-09T17:27:37Z",
+            "owner": "rxin",
+            "repo": "db-readings",
+            "stars": 8133
+          }
+        }
+      ],
+      "title": "Research Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:55:37.612Z",
+    "last_updated": "2026-08-24T14:12:18.076Z",
     "original_repository": "numetriclabz/awesome-db",
     "original_repository_id": 22630633,
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
