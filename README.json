@@ -63,7 +63,7 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-24T11:46:48Z",
+            "last_commit": "2026-08-24T14:48:58Z",
             "owner": "mongodb",
             "repo": "mongo",
             "stars": 28503
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-20T19:31:27Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31709
+            "stars": 31710
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-24T14:11:14Z",
+            "last_commit": "2026-08-24T14:58:18Z",
             "owner": "elastic",
             "repo": "elasticsearch",
             "stars": 77856
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 7083240,
             "language": "Java",
-            "last_commit": "2026-08-24T11:34:39Z",
+            "last_commit": "2026-08-24T14:30:34Z",
             "owner": "orientechnologies",
             "repo": "orientdb",
             "stars": 4980
@@ -603,7 +603,7 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-24T11:46:48Z",
+            "last_commit": "2026-08-24T14:48:58Z",
             "owner": "mongodb",
             "repo": "mongo",
             "stars": 28503
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:18.076Z",
+    "last_updated": "2026-08-24T15:06:46.720Z",
     "original_repository": "numetriclabz/awesome-db",
     "original_repository_id": 22630633,
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",

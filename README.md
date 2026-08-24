@@ -42,7 +42,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Go-lang
 
-* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,709 | 🐛 2,148 | 🌐 Rust | 📅 2026-08-20 - Scalable datastore for metrics, events, and real-time analytics
+* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,710 | 🐛 2,148 | 🌐 Rust | 📅 2026-08-20 - Scalable datastore for metrics, events, and real-time analytics
 * [bolt](https://github.com/boltdb/bolt) ⚠️ Archived - A low-level key/value database for Go.
 * [groupcache](https://github.com/golang/groupcache) ⭐ 13,331 | 🐛 45 | 🌐 Go | 📅 2024-11-29 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [go-cache](https://github.com/pmylund/go-cache) ⭐ 8,844 | 🐛 77 | 🌐 Go | 📅 2023-11-20 - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
@@ -55,11 +55,11 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## JAVA
 
-* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 77,856 | 🐛 5,934 | 🌐 Java | 📅 2026-08-24 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
+* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 77,856 | 🐛 5,936 | 🌐 Java | 📅 2026-08-24 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
 * [neo4j](https://github.com/neo4j/neo4j) ⭐ 17,121 | 🐛 241 | 🌐 Java | 📅 2026-08-07 - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [cassandra](https://github.com/apache/cassandra) ⭐ 10,079 | 🐛 467 | 🌐 Java | 📅 2026-08-24 - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [mapdb](https://github.com/jankotek/MapDB) ⭐ 5,049 | 🐛 200 | 🌐 Java | 📅 2026-07-23 - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.<http://www.mapdb.org>
-* [orientdb](https://github.com/orientechnologies/orientdb) ⭐ 4,980 | 🐛 357 | 🌐 Java | 📅 2026-08-24 - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
+* [orientdb](https://github.com/orientechnologies/orientdb) ⭐ 4,980 | 🐛 356 | 🌐 Java | 📅 2026-08-24 - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) ⭐ 2,685 | 🐛 79 | 🌐 Java | 📅 2023-07-24 - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 * [lmdbjni](https://github.com/deephacks/lmdbjni) ⭐ 205 | 🐛 17 | 🌐 C | 📅 2021-05-28 - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 
