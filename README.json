@@ -51,7 +51,7 @@
             "last_commit": "2026-08-22T19:19:35Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32008
+            "stars": 32010
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-25T05:47:25Z",
+            "last_commit": "2026-08-25T11:23:18Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28501
+            "stars": 28502
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-03-28T06:10:59Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 26995
+            "stars": 26994
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 927442,
             "language": "C",
-            "last_commit": "2026-08-25T01:50:21Z",
+            "last_commit": "2026-08-25T13:50:55Z",
             "owner": "postgres",
             "repo": "postgres",
             "stars": 21890
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 542714,
             "language": "C#",
-            "last_commit": "2026-08-24T20:17:21Z",
+            "last_commit": "2026-08-25T11:05:19Z",
             "owner": "ravendb",
             "repo": "ravendb",
-            "stars": 3992
+            "stars": 3993
           }
         }
       ],
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-20T19:31:27Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31714
+            "stars": 31713
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2018-03-02T18:00:53Z",
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14644
+            "stars": 14643
           }
         },
         {
@@ -477,10 +477,10 @@
             "archived": false,
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-25T06:00:33Z",
+            "last_commit": "2026-08-25T14:18:06Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77860
+            "stars": 77861
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-24T16:47:42Z",
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17128
+            "stars": 17133
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-08-24T20:38:31Z",
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10080
+            "stars": 10081
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-24T14:30:34Z",
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 4981
+            "stars": 4982
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2022-10-19T07:57:00Z",
             "owner": "thinkaurelius",
             "repo": "titan",
-            "stars": 5225
+            "stars": 5226
           }
         }
       ],
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-25T05:47:25Z",
+            "last_commit": "2026-08-25T11:23:18Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28501
+            "stars": 28502
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-25T05:05:34Z",
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6941
+            "stars": 6942
           }
         }
       ],
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:50.474Z",
+    "last_updated": "2026-08-25T14:21:09.904Z",
     "original_repository": "numetriclabz/awesome-db",
     "original_repository_id": 22630633,
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
