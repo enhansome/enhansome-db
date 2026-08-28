@@ -16,7 +16,8 @@
             "owner": "funcool",
             "repo": "clojure.jdbc",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "robashton",
             "repo": "cravendb",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Clojure"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 6934395,
             "language": "C++",
-            "last_commit": "2026-08-27T04:54:40Z",
+            "last_commit": "2026-08-28T17:57:16Z",
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32019
-          }
+            "stars": 32024
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-27T22:46:14Z",
+            "last_commit": "2026-08-28T21:55:46Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28510
-          }
+            "stars": 28513
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-03-28T06:10:59Z",
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 26994
-          }
+            "stars": 26995
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 927442,
             "language": "C",
-            "last_commit": "2026-08-27T19:27:03Z",
+            "last_commit": "2026-08-28T21:35:31Z",
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21918
-          }
+            "stars": 21926
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "memcached",
             "repo": "memcached",
             "stars": 14259
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "ideawu",
             "repo": "ssdb",
             "stars": 8320
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "facebook",
             "repo": "mysql-5.6",
             "stars": 2575
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "citusdata",
             "repo": "cstore_fdw",
             "stars": 1783
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "twitter-forks",
             "repo": "mysql",
             "stars": 1733
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "aerospike",
             "repo": "aerospike-server",
             "stars": 1375
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Tokutek",
             "repo": "mongo",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "percona",
             "repo": "tokudb-engine",
             "stars": 663
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "JakSprats",
             "repo": "Alchemy-Database",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -246,8 +261,9 @@
             "last_commit": "2026-08-13T11:07:27Z",
             "owner": "antirez",
             "repo": "redis",
-            "stars": 144
-          }
+            "stars": 145
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "mpalmer",
             "repo": "redis",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "snaga",
             "repo": "monetdb",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "C / CPP"
@@ -294,11 +312,12 @@
             "archived": false,
             "id": 542714,
             "language": "C#",
-            "last_commit": "2026-08-27T14:10:55Z",
+            "last_commit": "2026-08-28T13:51:12Z",
             "owner": "ravendb",
             "repo": "ravendb",
-            "stars": 3993
-          }
+            "stars": 3994
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "dot-net"
@@ -319,7 +338,8 @@
             "owner": "basho",
             "repo": "riak",
             "stars": 4027
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Erlang"
@@ -336,11 +356,12 @@
             "archived": false,
             "id": 13124802,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:37:43Z",
+            "last_commit": "2026-08-28T22:13:13Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31722
-          }
+            "stars": 31726
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "boltdb",
             "repo": "bolt",
             "stars": 14643
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -369,8 +391,9 @@
             "last_commit": "2024-11-29T21:07:26Z",
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13335
-          }
+            "stars": 13336
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "patrickmn",
             "repo": "go-cache",
             "stars": 8844
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "syndtr",
             "repo": "goleveldb",
             "stars": 6324
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "ledisdb",
             "repo": "ledisdb",
             "stars": 4115
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "soundcloud",
             "repo": "roshi",
             "stars": 3180
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "HouzuoGuo",
             "repo": "tiedot",
             "stars": 2725
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "peterbourgon",
             "repo": "diskv",
             "stars": 1455
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Go-lang"
@@ -477,11 +506,12 @@
             "archived": false,
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-27T22:31:44Z",
+            "last_commit": "2026-08-28T23:06:31Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77874
-          }
+            "stars": 77876
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -495,8 +525,9 @@
             "last_commit": "2026-08-24T16:47:42Z",
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17150
-          }
+            "stars": 17156
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -507,11 +538,12 @@
             "archived": false,
             "id": 206424,
             "language": "Java",
-            "last_commit": "2026-08-27T10:10:11Z",
+            "last_commit": "2026-08-28T06:11:58Z",
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10082
-          }
+            "stars": 10085
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -525,8 +557,9 @@
             "last_commit": "2026-08-27T19:06:07Z",
             "owner": "jankotek",
             "repo": "mapdb",
-            "stars": 5049
-          }
+            "stars": 5050
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "orientechnologies",
             "repo": "orientdb",
             "stars": 4983
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -555,8 +589,9 @@
             "last_commit": "2023-07-24T13:49:47Z",
             "owner": "voldemort",
             "repo": "voldemort",
-            "stars": 2686
-          }
+            "stars": 2687
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "deephacks",
             "repo": "lmdbjni",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "thinkaurelius",
             "repo": "titan",
             "stars": 5226
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "JAVA"
@@ -603,11 +640,12 @@
             "archived": false,
             "id": 108110,
             "language": "C++",
-            "last_commit": "2026-08-27T22:46:14Z",
+            "last_commit": "2026-08-28T21:55:46Z",
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28510
-          }
+            "stars": 28513
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         },
         {
           "node_type": "item",
@@ -618,11 +656,12 @@
             "archived": false,
             "id": 206417,
             "language": "Erlang",
-            "last_commit": "2026-08-27T13:30:06Z",
+            "last_commit": "2026-08-28T20:57:07Z",
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6943
-          }
+            "stars": 6944
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Javascript"
@@ -643,7 +682,8 @@
             "owner": "sameeragarwal",
             "repo": "blinkdb",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Scala"
@@ -664,14 +704,15 @@
             "owner": "rxin",
             "repo": "db-readings",
             "stars": 8133
-          }
+          },
+          "first_seen": "2026-08-28T23:09:54.580Z"
         }
       ],
       "title": "Research Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:01:49.551Z",
+    "last_updated": "2026-08-28T23:09:54.580Z",
     "original_repository_info": {
       "archived": false,
       "id": 22630633,
