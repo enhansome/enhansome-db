@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JDBC library for Clojure",
+            "homepage": "http://funcool.github.io/clojure.jdbc/latest/",
             "id": 14280537,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-01T17:13:14Z",
+            "open_issues": 10,
             "owner": "funcool",
             "repo": "clojure.jdbc",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A document database written in Clojure",
+            "homepage": null,
             "id": 11814790,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2013-12-25T15:58:46Z",
+            "open_issues": 0,
             "owner": "robashton",
             "repo": "cravendb",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -48,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+            "homepage": "http://rocksdb.org",
             "id": 6934395,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T17:57:16Z",
+            "open_issues": 1630,
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32024
+            "stars": 32025,
+            "topics": [
+              "database",
+              "storage-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -64,12 +82,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The MongoDB Database",
+            "homepage": "https://www.mongodb.com/",
             "id": 108110,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:55:46Z",
+            "open_issues": 32,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28513
+            "stars": 28513,
+            "topics": [
+              "c-plus-plus",
+              "database",
+              "mongodb",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -80,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source database for the realtime web.",
+            "homepage": "https://rethinkdb.com",
             "id": 6452529,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-28T06:10:59Z",
+            "open_issues": 1352,
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 26995
+            "stars": 26995,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -96,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
+            "homepage": "https://www.postgresql.org/",
             "id": 927442,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:35:31Z",
+            "open_issues": 0,
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 21926
+            "stars": 21926,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -112,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "memcached development tree",
+            "homepage": "https://memcached.org",
             "id": 184981,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-10T04:45:12Z",
+            "open_issues": 103,
             "owner": "memcached",
             "repo": "memcached",
-            "stars": 14259
+            "stars": 14259,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -128,12 +171,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSDB - A fast NoSQL database, an alternative to Redis",
+            "homepage": "http://ssdb.io/",
             "id": 7561862,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-08-20T12:26:30Z",
+            "open_issues": 398,
             "owner": "ideawu",
             "repo": "ssdb",
-            "stars": 8320
+            "stars": 8319,
+            "topics": [
+              "leveldb",
+              "nosql-databases",
+              "redis",
+              "rocksdb",
+              "ssdb"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -144,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook's branch of the Oracle MySQL database. This includes MyRocks.",
+            "homepage": "http://myrocks.io",
             "id": 9454675,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-27T17:24:15Z",
+            "open_issues": 237,
             "owner": "facebook",
             "repo": "mysql-5.6",
-            "stars": 2575
+            "stars": 2575,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -160,12 +219,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.",
+            "homepage": null,
             "id": 18400513,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-08T08:37:44Z",
+            "open_issues": 69,
             "owner": "citusdata",
             "repo": "cstore_fdw",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "columnar-storage",
+              "columnar-store",
+              "compression",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -176,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL fork maintained and used at Twitter",
+            "homepage": "https://github.com/twitter/mysql/wiki",
             "id": 3098140,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2017-02-22T15:27:40Z",
+            "open_issues": 11,
             "owner": "twitter-forks",
             "repo": "mysql",
-            "stars": 1733
+            "stars": 1733,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -192,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aerospike Database Server – flash-optimized, in-memory, nosql database",
+            "homepage": "http://aerospike.com/",
             "id": 124315604,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-16T17:59:39Z",
+            "open_issues": 10,
             "owner": "aerospike",
             "repo": "aerospike-server",
-            "stars": 1375
+            "stars": 1375,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -208,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB | Issue tracker: https://tokutek.atlassian.net/browse/MX/ |",
+            "homepage": "http://www.tokutek.com/products/tokumx-for-mongodb/",
             "id": 8729689,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-10-11T03:59:05Z",
+            "open_issues": 162,
             "owner": "Tokutek",
             "repo": "mongo",
-            "stars": 704
+            "stars": 704,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -224,12 +308,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Percona TokuDB is a high-performance, write optimized, compressing, transactional storage engine for Percona Server.  Issue tracker: https://tokutek.atlassian.net/browse/DB/ Wiki: https://github.com/Percona/tokudb-engine/wiki  Downloads:",
+            "homepage": "https://www.percona.com/software/percona-tokudb",
             "id": 9509125,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2015-10-03T13:14:42Z",
+            "open_issues": 7,
             "owner": "percona",
             "repo": "tokudb-engine",
-            "stars": 663
+            "stars": 663,
+            "topics": [
+              "ps"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -240,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hybrid Relational-Database/NOSQL-Datastore",
+            "homepage": "http://code.google.com/p/alchemydatabase/",
             "id": 858418,
             "language": "C",
+            "license": null,
             "last_commit": "2012-08-27T23:16:09Z",
+            "open_issues": 3,
             "owner": "JakSprats",
             "repo": "Alchemy-Database",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -256,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "homepage": "http://redis.io",
             "id": 960061807,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T11:07:27Z",
+            "open_issues": 0,
             "owner": "antirez",
             "repo": "redis",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -272,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes",
+            "homepage": "http://redis.io",
             "id": 8980523,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2014-05-30T20:45:32Z",
+            "open_issues": 2,
             "owner": "mpalmer",
             "repo": "redis",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -288,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Private repository for MonetDB development",
+            "homepage": "http://dev.monetdb.org/hg",
             "id": 12612138,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2013-09-05T07:45:26Z",
+            "open_issues": 0,
             "owner": "snaga",
             "repo": "monetdb",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -310,12 +421,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACID Document Database",
+            "homepage": "https://ravendb.net",
             "id": 542714,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:51:12Z",
+            "open_issues": 74,
             "owner": "ravendb",
             "repo": "ravendb",
-            "stars": 3994
+            "stars": 3994,
+            "topics": [
+              "csharp",
+              "database",
+              "document-database",
+              "dotnet",
+              "full-text-search",
+              "indexing",
+              "iot",
+              "nosql",
+              "ravendb",
+              "search-engine",
+              "sharding",
+              "spatial",
+              "time-series",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -332,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Riak is a decentralized datastore from Basho Technologies.",
+            "homepage": "http://docs.basho.com",
             "id": 613723,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T13:38:31Z",
+            "open_issues": 150,
             "owner": "basho",
             "repo": "riak",
-            "stars": 4027
+            "stars": 4027,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -354,12 +490,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable datastore for metrics, events, and real-time analytics",
+            "homepage": "https://influxdata.com",
             "id": 13124802,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:13:13Z",
+            "open_issues": 2157,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31726
+            "stars": 31726,
+            "topics": [
+              "database",
+              "go",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "react",
+              "rust",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -370,12 +520,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An embedded key/value database for Go.",
+            "homepage": null,
             "id": 15345331,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-03-02T18:00:53Z",
+            "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643
+            "stars": 14643,
+            "topics": [
+              "database",
+              "go",
+              "key-value"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -386,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+            "homepage": null,
             "id": 11593442,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-29T21:07:26Z",
+            "open_issues": 45,
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13336
+            "stars": 13335,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -402,12 +566,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+            "homepage": "https://patrickmn.com/projects/go-cache/",
             "id": 3087541,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-20T05:12:16Z",
+            "open_issues": 77,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8844
+            "stars": 8844,
+            "topics": [
+              "cache",
+              "go",
+              "library"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -418,12 +591,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LevelDB key/value database in Go.",
+            "homepage": null,
             "id": 7767488,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-05-14T20:40:52Z",
+            "open_issues": 111,
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6324
+            "stars": 6324,
+            "topics": [
+              "database",
+              "go",
+              "leveldb"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -434,12 +616,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance NoSQL Database Server powered by Go",
+            "homepage": "https://ledisdb.io",
             "id": 19296225,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-22T02:24:37Z",
+            "open_issues": 1,
             "owner": "ledisdb",
             "repo": "ledisdb",
-            "stars": 4115
+            "stars": 4115,
+            "topics": [
+              "golang",
+              "goleveldb",
+              "ledisdb",
+              "redis",
+              "rocksdb-support",
+              "support-cluster"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -450,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roshi is a large-scale CRDT set implementation for timestamped events.",
+            "homepage": null,
             "id": 15902954,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-21T06:42:39Z",
+            "open_issues": 15,
             "owner": "soundcloud",
             "repo": "roshi",
-            "stars": 3180
+            "stars": 3180,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -466,12 +665,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rudimentary implementation of a basic document (NoSQL) database in Go",
+            "homepage": null,
             "id": 10296238,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-09-05T17:47:27Z",
+            "open_issues": 27,
             "owner": "HouzuoGuo",
             "repo": "tiedot",
-            "stars": 2725
+            "stars": 2725,
+            "topics": [
+              "database",
+              "db",
+              "document-database",
+              "go",
+              "golang",
+              "nosql",
+              "tiedot"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -482,12 +694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A disk-backed key-value store.",
+            "homepage": "http://godoc.org/github.com/peterbourgon/diskv",
             "id": 3788841,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-11-10T01:12:08Z",
+            "open_issues": 8,
             "owner": "peterbourgon",
             "repo": "diskv",
-            "stars": 1455
+            "stars": 1455,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -504,12 +721,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Open Source, Distributed, RESTful Search Engine",
+            "homepage": "https://www.elastic.co/products/elasticsearch",
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-28T23:06:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:14:29Z",
+            "open_issues": 5997,
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77876
+            "stars": 77877,
+            "topics": [
+              "elasticsearch",
+              "java",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -520,12 +746,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphs for Everyone",
+            "homepage": "http://neo4j.com",
             "id": 6650539,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T16:47:42Z",
+            "open_issues": 247,
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17156
+            "stars": 17159,
+            "topics": [
+              "cypher",
+              "database",
+              "graph",
+              "graph-database",
+              "graphdb",
+              "neo4j",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -536,12 +775,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+            "homepage": "https://cassandra.apache.org/",
             "id": 206424,
             "language": "Java",
-            "last_commit": "2026-08-28T06:11:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:25:15Z",
+            "open_issues": 474,
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10085
+            "stars": 10085,
+            "topics": [
+              "cassandra",
+              "database",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -552,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.",
+            "homepage": "https://mapdb.org",
             "id": 5453989,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:06:07Z",
+            "open_issues": 199,
             "owner": "jankotek",
             "repo": "mapdb",
-            "stars": 5050
+            "stars": 5050,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -568,12 +821,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.",
+            "homepage": "https://orientdb.dev",
             "id": 7083240,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:43:41Z",
+            "open_issues": 356,
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 4983
+            "stars": 4983,
+            "topics": [
+              "database",
+              "dbms",
+              "document-database",
+              "fast",
+              "graph-database",
+              "graph-store",
+              "multi-master",
+              "multi-model-dbms",
+              "nosql",
+              "orientdb",
+              "performance",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -584,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source clone of Amazon's Dynamo.",
+            "homepage": "http://project-voldemort.com",
             "id": 214605,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-24T13:49:47Z",
+            "open_issues": 79,
             "owner": "voldemort",
             "repo": "voldemort",
-            "stars": 2687
+            "stars": 2687,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -600,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LMDB for Java",
+            "homepage": null,
             "id": 19858860,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-28T01:46:47Z",
+            "open_issues": 17,
             "owner": "deephacks",
             "repo": "lmdbjni",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -616,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Graph Database",
+            "homepage": "http://titandb.io",
             "id": 3548254,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-19T07:57:00Z",
+            "open_issues": 181,
             "owner": "thinkaurelius",
             "repo": "titan",
-            "stars": 5226
+            "stars": 5226,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -638,12 +924,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The MongoDB Database",
+            "homepage": "https://www.mongodb.com/",
             "id": 108110,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:55:46Z",
+            "open_issues": 32,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28513
+            "stars": 28513,
+            "topics": [
+              "c-plus-plus",
+              "database",
+              "mongodb",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         },
@@ -654,12 +950,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+            "homepage": "https://couchdb.apache.org/",
             "id": 206417,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:57:07Z",
+            "open_issues": 368,
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6944
+            "stars": 6944,
+            "topics": [
+              "big-data",
+              "cloud",
+              "content",
+              "couchdb",
+              "database",
+              "erlang",
+              "http",
+              "javascript",
+              "network-client",
+              "network-server"
+            ]
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -676,12 +988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlinkDB: Sub-Second Approximate Queries on Very Large Data.",
+            "homepage": "http://blinkdb.cs.berkeley.edu/",
             "id": 2529750,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2014-02-06T07:21:39Z",
+            "open_issues": 9,
             "owner": "sameeragarwal",
             "repo": "blinkdb",
-            "stars": 660
+            "stars": 660,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -698,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Readings in Databases",
+            "homepage": null,
             "id": 4513324,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-09T17:27:37Z",
+            "open_issues": 10,
             "owner": "rxin",
             "repo": "db-readings",
-            "stars": 8133
+            "stars": 8134,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
         }
@@ -712,15 +1034,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:09:54.580Z",
+    "last_updated": "2026-08-29T04:30:15.449Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
+      "homepage": null,
       "id": 22630633,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-04T12:40:15Z",
+      "open_issues": 39,
       "owner": "numetriclabz",
       "repo": "awesome-db",
-      "stars": 1379
+      "stars": 1379,
+      "topics": []
     },
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
     "enhanced_repository": "enhansome/enhansome-db",
