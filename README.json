@@ -63,11 +63,11 @@
             "id": 6934395,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T20:23:59Z",
-            "open_issues": 1681,
+            "last_commit": "2026-09-25T23:30:11Z",
+            "open_issues": 1682,
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32133,
+            "stars": 32137,
             "topics": [
               "database",
               "storage-engine"
@@ -87,11 +87,11 @@
             "id": 108110,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T15:58:01Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-25T20:54:46Z",
+            "open_issues": 37,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28585,
+            "stars": 28596,
             "topics": [
               "c-plus-plus",
               "database",
@@ -134,11 +134,11 @@
             "id": 927442,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T15:41:07Z",
+            "last_commit": "2026-09-26T16:56:48Z",
             "open_issues": 0,
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 22196,
+            "stars": 22203,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -254,7 +254,7 @@
             "open_issues": 11,
             "owner": "twitter-forks",
             "repo": "mysql",
-            "stars": 1733,
+            "stars": 1734,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -426,8 +426,8 @@
             "id": 542714,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T12:53:48Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-25T18:20:52Z",
+            "open_issues": 83,
             "owner": "ravendb",
             "repo": "ravendb",
             "stars": 4000,
@@ -495,8 +495,8 @@
             "id": 13124802,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T08:33:42Z",
-            "open_issues": 2174,
+            "last_commit": "2026-09-25T22:44:22Z",
+            "open_issues": 2172,
             "owner": "influxdata",
             "repo": "influxdb",
             "stars": 31758,
@@ -529,7 +529,7 @@
             "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643,
+            "stars": 14642,
             "topics": [
               "database",
               "go",
@@ -554,7 +554,7 @@
             "open_issues": 46,
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13337,
+            "stars": 13336,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -726,11 +726,11 @@
             "id": 507775,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T18:00:32Z",
-            "open_issues": 6088,
+            "last_commit": "2026-09-26T14:13:11Z",
+            "open_issues": 6101,
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77988,
+            "stars": 78000,
             "topics": [
               "elasticsearch",
               "java",
@@ -755,7 +755,7 @@
             "open_issues": 242,
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17259,
+            "stars": 17256,
             "topics": [
               "cypher",
               "database",
@@ -780,11 +780,11 @@
             "id": 206424,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T00:18:50Z",
-            "open_issues": 550,
+            "last_commit": "2026-09-26T11:14:01Z",
+            "open_issues": 545,
             "owner": "apache",
             "repo": "cassandra",
-            "stars": 10103,
+            "stars": 10102,
             "topics": [
               "cassandra",
               "database",
@@ -827,10 +827,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T06:44:40Z",
-            "open_issues": 359,
+            "open_issues": 362,
             "owner": "orientechnologies",
             "repo": "orientdb",
-            "stars": 4988,
+            "stars": 4989,
             "topics": [
               "database",
               "dbms",
@@ -906,7 +906,7 @@
             "open_issues": 181,
             "owner": "thinkaurelius",
             "repo": "titan",
-            "stars": 5230,
+            "stars": 5229,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -929,11 +929,11 @@
             "id": 108110,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T15:58:01Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-25T20:54:46Z",
+            "open_issues": 37,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28585,
+            "stars": 28596,
             "topics": [
               "c-plus-plus",
               "database",
@@ -955,8 +955,8 @@
             "id": 206417,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T17:22:31Z",
-            "open_issues": 377,
+            "last_commit": "2026-09-26T17:00:14Z",
+            "open_issues": 378,
             "owner": "apache",
             "repo": "couchdb",
             "stars": 6963,
@@ -1024,7 +1024,7 @@
             "open_issues": 10,
             "owner": "rxin",
             "repo": "db-readings",
-            "stars": 8151,
+            "stars": 8152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:02:09.487Z",
+    "last_updated": "2026-09-26T17:21:28.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
