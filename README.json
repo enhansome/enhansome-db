@@ -64,10 +64,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-25T23:30:11Z",
-            "open_issues": 1682,
+            "open_issues": 1683,
             "owner": "facebook",
             "repo": "rocksdb",
-            "stars": 32137,
+            "stars": 32140,
             "topics": [
               "database",
               "storage-engine"
@@ -88,10 +88,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T20:54:46Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28596,
+            "stars": 28604,
             "topics": [
               "c-plus-plus",
               "database",
@@ -117,7 +117,7 @@
             "open_issues": 1352,
             "owner": "rethinkdb",
             "repo": "rethinkdb",
-            "stars": 27002,
+            "stars": 27003,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -138,7 +138,7 @@
             "open_issues": 0,
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 22203,
+            "stars": 22218,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -427,7 +427,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T18:20:52Z",
-            "open_issues": 83,
+            "open_issues": 85,
             "owner": "ravendb",
             "repo": "ravendb",
             "stars": 4000,
@@ -472,7 +472,7 @@
             "open_issues": 150,
             "owner": "basho",
             "repo": "riak",
-            "stars": 4026,
+            "stars": 4027,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -529,7 +529,7 @@
             "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14642,
+            "stars": 14641,
             "topics": [
               "database",
               "go",
@@ -551,10 +551,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-11-29T21:07:26Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13336,
+            "stars": 13335,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -600,7 +600,7 @@
             "open_issues": 111,
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6322,
+            "stars": 6321,
             "topics": [
               "database",
               "go",
@@ -700,7 +700,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2021-11-10T01:12:08Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "peterbourgon",
             "repo": "diskv",
             "stars": 1455,
@@ -726,11 +726,11 @@
             "id": 507775,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T14:13:11Z",
-            "open_issues": 6101,
+            "last_commit": "2026-09-27T17:29:50Z",
+            "open_issues": 6107,
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 78000,
+            "stars": 78009,
             "topics": [
               "elasticsearch",
               "java",
@@ -755,7 +755,7 @@
             "open_issues": 242,
             "owner": "neo4j",
             "repo": "neo4j",
-            "stars": 17256,
+            "stars": 17258,
             "topics": [
               "cypher",
               "database",
@@ -781,7 +781,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-26T11:14:01Z",
-            "open_issues": 545,
+            "open_issues": 546,
             "owner": "apache",
             "repo": "cassandra",
             "stars": 10102,
@@ -827,7 +827,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T06:44:40Z",
-            "open_issues": 362,
+            "open_issues": 363,
             "owner": "orientechnologies",
             "repo": "orientdb",
             "stars": 4989,
@@ -930,10 +930,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T20:54:46Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28596,
+            "stars": 28604,
             "topics": [
               "c-plus-plus",
               "database",
@@ -955,8 +955,8 @@
             "id": 206417,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T17:00:14Z",
-            "open_issues": 378,
+            "last_commit": "2026-09-26T19:50:53Z",
+            "open_issues": 377,
             "owner": "apache",
             "repo": "couchdb",
             "stars": 6963,
@@ -1024,7 +1024,7 @@
             "open_issues": 10,
             "owner": "rxin",
             "repo": "db-readings",
-            "stars": 8152,
+            "stars": 8155,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:21:28.103Z",
+    "last_updated": "2026-09-27T17:54:26.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
@@ -1046,7 +1046,7 @@
       "open_issues": 40,
       "owner": "numetriclabz",
       "repo": "awesome-db",
-      "stars": 1377,
+      "stars": 1378,
       "topics": []
     },
     "original_repository_sha": "ca38653f43b9ba91955cf8d98db9c572dc1dd346",
