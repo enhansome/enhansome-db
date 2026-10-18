@@ -91,7 +91,7 @@
             "open_issues": 37,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28648,
+            "stars": 28650,
             "topics": [
               "c-plus-plus",
               "database",
@@ -138,7 +138,7 @@
             "open_issues": 0,
             "owner": "postgres",
             "repo": "postgres",
-            "stars": 22444,
+            "stars": 22456,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -361,7 +361,7 @@
             "open_issues": 0,
             "owner": "antirez",
             "repo": "redis",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -427,7 +427,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T07:59:48Z",
-            "open_issues": 75,
+            "open_issues": 77,
             "owner": "ravendb",
             "repo": "ravendb",
             "stars": 4002,
@@ -499,7 +499,7 @@
             "open_issues": 2179,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31767,
+            "stars": 31770,
             "topics": [
               "database",
               "go",
@@ -529,7 +529,7 @@
             "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14640,
+            "stars": 14637,
             "topics": [
               "database",
               "go",
@@ -653,7 +653,7 @@
             "open_issues": 17,
             "owner": "soundcloud",
             "repo": "roshi",
-            "stars": 3176,
+            "stars": 3175,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -726,11 +726,11 @@
             "id": 507775,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T14:09:29Z",
-            "open_issues": 6194,
+            "last_commit": "2026-10-18T16:37:17Z",
+            "open_issues": 6203,
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 78295,
+            "stars": 78301,
             "topics": [
               "elasticsearch",
               "java",
@@ -752,7 +752,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T14:37:06Z",
-            "open_issues": 235,
+            "open_issues": 236,
             "owner": "neo4j",
             "repo": "neo4j",
             "stars": 17336,
@@ -933,7 +933,7 @@
             "open_issues": 37,
             "owner": "mongodb",
             "repo": "mongo",
-            "stars": 28648,
+            "stars": 28650,
             "topics": [
               "c-plus-plus",
               "database",
@@ -956,10 +956,10 @@
             "language": "Erlang",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T05:10:25Z",
-            "open_issues": 373,
+            "open_issues": 372,
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6977,
+            "stars": 6978,
             "topics": [
               "big-data",
               "cloud",
@@ -1024,7 +1024,7 @@
             "open_issues": 10,
             "owner": "rxin",
             "repo": "db-readings",
-            "stars": 8163,
+            "stars": 8164,
             "topics": []
           },
           "first_seen": "2026-08-28T23:09:54.580Z"
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:36:03.954Z",
+    "last_updated": "2026-10-18T16:44:18.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
