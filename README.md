@@ -10,11 +10,11 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## C / CPP
 
-* [rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,252 | 🐛 1,826 | 🌐 C++ | 📅 2026-11-07 - Embedded key-value store for fast storage <http://rocksdb.org>
+* [rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,253 | 🐛 1,829 | 🌐 C++ | 📅 2026-11-07 - Embedded key-value store for fast storage <http://rocksdb.org>
 * [mongo](https://github.com/mongodb/mongo) ⭐ 28,678 | 🐛 39 | 🌐 C++ | 📅 2026-11-04 - The Mongo Database <http://www.mongodb.org/>
-* [rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 27,007 | 🐛 1,338 | 🌐 C++ | 📅 2026-11-07 - An open-source distributed JSON document database with a pleasant and powerful query language. <http://www.rethinkdb.com>
-* [postgres](https://github.com/postgres/postgres) ⭐ 22,721 | 🐛 0 | 🌐 C | 📅 2026-11-07
-* [memcache](https://github.com/memcached/memcached) ⭐ 14,302 | 🐛 128 | 🌐 C | 📅 2026-09-11 - Free & open source, high-performance, distributed memory object caching system
+* [rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 27,008 | 🐛 1,336 | 🌐 C++ | 📅 2026-11-07 - An open-source distributed JSON document database with a pleasant and powerful query language. <http://www.rethinkdb.com>
+* [postgres](https://github.com/postgres/postgres) ⭐ 22,740 | 🐛 0 | 🌐 C | 📅 2026-11-08
+* [memcache](https://github.com/memcached/memcached) ⭐ 14,300 | 🐛 128 | 🌐 C | 📅 2026-09-11 - Free & open source, high-performance, distributed memory object caching system
 * [ssdb](https://github.com/ideawu/ssdb) ⭐ 8,309 | 🐛 398 | 🌐 C++ | 📅 2022-08-20 - SSDB - A fast NoSQL database, an alternative to Redis <http://ssdb.io>
 * [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) ⚠️ Archived - Facebook's branch of the Oracle MySQL v5.6 database
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) ⭐ 1,781 | 🐛 69 | 🌐 C | 📅 2021-03-08 - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
@@ -32,7 +32,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## dot-net
 
-* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 4,016 | 🐛 75 | 🌐 C# | 📅 2026-11-06 - A linq enabled document database for .NET <http://ayende.com/Blog/>
+* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 4,016 | 🐛 78 | 🌐 C# | 📅 2026-11-08 - A linq enabled document database for .NET <http://ayende.com/Blog/>
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
 ## Erlang
@@ -42,21 +42,21 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Go-lang
 
-* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,803 | 🐛 2,178 | 🌐 Rust | 📅 2026-11-06 - Scalable datastore for metrics, events, and real-time analytics
+* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,802 | 🐛 2,178 | 🌐 Rust | 📅 2026-11-06 - Scalable datastore for metrics, events, and real-time analytics
 * [bolt](https://github.com/boltdb/bolt) ⚠️ Archived - A low-level key/value database for Go.
 * [groupcache](https://github.com/golang/groupcache) ⭐ 13,335 | 🐛 46 | 🌐 Go | 📅 2024-11-29 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [go-cache](https://github.com/pmylund/go-cache) ⭐ 8,840 | 🐛 84 | 🌐 Go | 📅 2023-11-20 - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [goleveldb](https://github.com/syndtr/goleveldb) ⭐ 6,316 | 🐛 113 | 🌐 Go | 📅 2024-05-14 - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
-* [ledisdb](https://github.com/siddontang/ledisdb) ⭐ 4,112 | 🐛 1 | 🌐 Go | 📅 2023-10-22 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+* [ledisdb](https://github.com/siddontang/ledisdb) ⭐ 4,113 | 🐛 1 | 🌐 Go | 📅 2023-10-22 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [roshi](https://github.com/soundcloud/roshi/) ⭐ 3,175 | 🐛 17 | 🌐 Go | 📅 2026-09-11 - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) ⭐ 2,725 | 🐛 27 | 🌐 Go | 📅 2021-09-05 - Your NoSQL database powered by Golang.
-* [diskv](https://github.com/peterbourgon/diskv) ⭐ 1,456 | 🐛 12 | 🌐 Go | 📅 2021-11-10 - A home-grown disk-backed key-value store.
+* [diskv](https://github.com/peterbourgon/diskv) ⭐ 1,456 | 🐛 13 | 🌐 Go | 📅 2021-11-10 - A home-grown disk-backed key-value store.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
 
 ## JAVA
 
-* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 78,523 | 🐛 6,409 | 🌐 Java | 📅 2026-11-07 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
-* [neo4j](https://github.com/neo4j/neo4j) ⭐ 17,403 | 🐛 243 | 🌐 Java | 📅 2026-11-06 - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
+* [elasticsearch](https://github.com/elasticsearch/elasticsearch) ⭐ 78,524 | 🐛 6,422 | 🌐 Java | 📅 2026-11-08 - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
+* [neo4j](https://github.com/neo4j/neo4j) ⭐ 17,405 | 🐛 241 | 🌐 Java | 📅 2026-11-06 - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [cassandra](https://github.com/apache/cassandra) ⭐ 10,141 | 🐛 567 | 🌐 Java | 📅 2026-11-07 - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [mapdb](https://github.com/jankotek/MapDB) ⭐ 5,054 | 🐛 204 | 🌐 Java | 📅 2026-11-03 - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.<http://www.mapdb.org>
 * [orientdb](https://github.com/orientechnologies/orientdb) ⭐ 4,999 | 🐛 397 | 🌐 Java | 📅 2026-11-07 - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
@@ -68,7 +68,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## Javascript
 
 * [mongodb](https://github.com/mongodb/mongo) ⭐ 28,678 | 🐛 39 | 🌐 C++ | 📅 2026-11-04 - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. \[website] (<https://www.mongodb.org/>)
-* [couchdb](https://github.com/apache/couchdb) ⭐ 7,005 | 🐛 369 | 🌐 Erlang | 📅 2026-11-07 - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API \[website] (<http://couchdb.apache.org/>)
+* [couchdb](https://github.com/apache/couchdb) ⭐ 7,005 | 🐛 370 | 🌐 Erlang | 📅 2026-11-07 - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API \[website] (<http://couchdb.apache.org/>)
 
 ## Scala
 
@@ -80,4 +80,4 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
